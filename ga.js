@@ -1,1 +1,0 @@
-!function(E,x,c,e,l,d,b){E.GoogleAnalyticsObject=c;E[c]||(E[c]=function(){(E[c].q=E[c].q||[]).push(arguments)});E[c].l=+new Date;d=x.createElement(e);b=x.getElementsByTagName(e)[0];d.src=l;b.parentNode.insertBefore(d,b)}(window,document,'ga','script','//www.google-analytics.com/analytics.js');ga('create','UA-44760751-1','isexceladatabase.com');ga('send','pageview');
