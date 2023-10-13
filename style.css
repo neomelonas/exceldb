@@ -1,14 +1,1 @@
-span#no {
-   width:100px;
-   height: 110px;
-   font-family: Verdana;
-   font-size: 4em;
-
-   position: absolute;
-   top:0;
-   bottom: 0;
-   left: 0;
-   right: 0;
-   margin: auto;
-}
-
+span#no {width: 100px;height: 110px;font-family: Verdana;font-size: 4em;position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
